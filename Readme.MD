@@ -25,7 +25,7 @@ So if You need to deply this project you first have to deply your own JioSaavnAP
 
 You Can Deploy your API on heroku or your VPS
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anishgowda21/JioSaavnAPI/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkmanrandy/JioSaavnAPI/tree/master)
 
 - After deploying the api note the API URL
 
@@ -35,7 +35,7 @@ You Can Deploy your API on heroku or your VPS
 
 - Deploy the bot here
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/anishgowda21/Music-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/darkmanrandy/Music-downloader-bot)
 
 ## Environment Variables
 
@@ -57,4 +57,4 @@ To run this project, you will need to add the following environment variables
 
 ## Special Thanks to
 
-- [cyberboysumanjay](https://github.com/cyberboysumanjay) for his awesome API
+- [TamilVenthan Mec](https://github.com/darkmanrandy) for his awesome API
